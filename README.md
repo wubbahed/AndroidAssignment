@@ -12,10 +12,12 @@ The app is built with a basic MVP structure (Model-View-Presenter) and makes hea
 ---
 Your assignment has two parts:
 ## Part 1: Code Review
-Review the code for:
-* Architecture
-* Coding Style
-* Logic & Lifecycle bugs
-* Code Optimzation & Performance
+Review the code and make recommendations for:
+* __Architecture__ - Is the architecture of the app clear, readable and scalable?
+* __Coding Style__ - Does the coding style make sense? Is it consistent?
+* __Logic & Lifecycle bugs__ - The code compiles and runs, but it is not bug-free.  What bugs do you find? How would you recommend fixing them.
+* __Code Optimzation & Performance__ - Many of the functions in the code are quick and dirty hacks.  How would you improve or optimize some of the functions in the application?
 
 ## Part 2: Feature Implementation
+
+After completing Part 1, define one or two features (or fixes) that you would like to implement in this application, and implement them.  Submit your changes as a pull request.
