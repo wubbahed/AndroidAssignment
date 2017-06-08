@@ -1,6 +1,6 @@
 # Android Assignment
 
-This repository contains a very simple, Android implementation of the game [Rock, Paper Scissors](https://en.wikipedia.org/wiki/Rock%E2%80%93paper%E2%80%93scissors).
+This repository contains a quickly written, but functional Android implementation of the game [Rock, Paper Scissors](https://en.wikipedia.org/wiki/Rock%E2%80%93paper%E2%80%93scissors).
 
 There are only two activities in this app. The main activity is a lobby where it shows all devices that are currently online.  Once you choose your opponent (or someone chooses you), then you proceed to the second activity which is the game.  In the game activity, you play a round, and then the game automatically resets.  Play as long as you want.
 
